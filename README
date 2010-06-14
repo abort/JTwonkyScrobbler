@@ -1,0 +1,12 @@
+JTwonkyScrobbler v1.0
+----------------------------------
+Java Last.FM Scrobbler for TwonkyMedia Server >= 5.3
+
+Getting started:
+----------------
+
+Surf to http://localhost:9000/rss/ on the TwonkyMedia Server system. Go to music -> playlists and copy the URL of the "last played" playlist. Paste this URL as the url property in jtwonkyscrobbler.properties.
+
+After fill in your Last.FM username and password (and eventually change the refresh interval of the playlist) and save the file.
+
+You are now ready to use JTwonkyScrobbler.jar (java -jar JTwonkyScrobbler.jar in your terminal/shell).
