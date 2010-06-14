@@ -15,7 +15,7 @@ import net.roarsoftware.lastfm.scrobble.Source;
  */
 public class ScrobbleController {
     // API properties/information
-    private static final String CLIENT_ID = "tst";
+    private static final String CLIENT_ID = "jtw";
     private static final String CLIENT_VERSION = "1.0";
 
     /**
